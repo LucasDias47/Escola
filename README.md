@@ -26,9 +26,5 @@ API REST desenvolvida com Java + Spring Boot para gerenciamento de estudantes.
 Acesse a documentação completa no Postman:  
 👉 https://documenter.getpostman.com/view/43091884/2sB34bMjWR
 
-> Substitua o link acima pelo endereço público gerado no Postman
-
----
-
 Desenvolvido por **Lucas Dias**
 
